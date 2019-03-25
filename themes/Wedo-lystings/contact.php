@@ -1,6 +1,6 @@
 <?php /* Template name: Contact */
 get_header();?>
-<div id="pagehead" class="vh-center">
+<div id="pagehead" class="vh-center">a
 	<?php
 		$media_id = giang_get_image_id(get_field('page_banner')); ;
 		$alt = 'image';
