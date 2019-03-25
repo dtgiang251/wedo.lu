@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Inscription-as-craftsman" transform="translate(-696.000000, -548.000000)" fill="#231F20">
+            <g id="Group-17" transform="translate(233.000000, 464.000000)">
+                <g id="Group-15" transform="translate(408.000000, 84.000000)">
+                    <g id="Page-1" transform="translate(55.000000, 0.000000)">
+                        <path d="M18.95624,31.86096 C18.75144,31.86096 18.54664,31.78256 18.39064,31.62656 L13.34664,26.58256 C13.03464,26.27056 13.03464,25.76416 13.34664,25.45136 C13.65944,25.13936 14.16584,25.13936 14.47784,25.45136 L18.97544,29.94816 L33.54104,16.35376 C33.86344,16.05376 34.37064,16.07056 34.67144,16.39296 C34.97304,16.71616 34.95544,17.22256 34.63224,17.52416 L19.50184,31.64576 C19.34824,31.78896 19.15224,31.86096 18.95624,31.86096" id="Fill-1"></path>
+                        <path d="M24,1.6 C11.6488,1.6 1.6,11.6488 1.6,24 C1.6,36.3512 11.6488,46.4 24,46.4 C36.3512,46.4 46.4,36.3512 46.4,24 C46.4,11.6488 36.3512,1.6 24,1.6 M24,48 C10.7664,48 0,37.2344 0,24 C0,10.7672 10.7664,0 24,0 C37.2336,0 48,10.7672 48,24 C48,37.2344 37.2336,48 24,48" id="Fill-3"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

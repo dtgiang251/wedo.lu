@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76" height="76" viewBox="0 0 76 76">
+  <defs>
+    <filter id="bg_ico_popup_close_hover" x="0" y="0" width="76" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ico_popup_close_hover" transform="translate(-102 -154)">
+    <g transform="matrix(1, 0, 0, 1, 102, 154)" filter="url(#bg_ico_popup_close_hover)">
+      <rect id="bg_ico_popup_close_hover-2" data-name="bg_ico_popup_close_hover" width="40" height="40" rx="20" transform="translate(18 14)" fill="#333"/>
+    </g>
+    <path id="union" d="M9.062,19.3V10.463H.7a.7.7,0,0,1,0-1.4H9.062V.7a.7.7,0,0,1,1.4,0V9.062H19.3a.7.7,0,0,1,0,1.4H10.463V19.3a.7.7,0,0,1-1.4,0Z" transform="translate(140 174.408) rotate(45)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,739 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce PDF Invoices Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-11 14:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Fee name and tax or vat label
+#: includes/class-invoice.php:685
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: includes/templates/invoice/global/micro/footer.php:15
+#: includes/templates/credit-note/simple/minimal/footer.php:26
+#, php-format
+msgid "%1$s of %2$s"
+msgstr ""
+
+#: includes/class-install.php:91
+#, php-format
+msgid ""
+"%1$s requires %2$s to be activated. Install and activate it and you should "
+"be good to go! :)"
+msgstr ""
+
+#: includes/class-install.php:100
+#, php-format
+msgid ""
+"%1$s requires at least %2$s. Update it and get the best out of both plugins. "
+":)"
+msgstr ""
+
+#. credit note.
+#: includes/class-credit-note.php:322
+#, php-format
+msgid ""
+"<a href=\"%1$s\" class=\"%2$s\" target=\"%3$s\">PDF Credit Note (%4$s)</a> "
+"for Refund #%5$s."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:305
+msgid ""
+"<b>Hint</b>: Send customer invoices to suppliers' Cloud Storages by simply "
+"adding their Email It In email addresses. Email addresses need to be "
+"seperated by comma's."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:351
+#, php-format
+msgid "<b>Note:</b> %s is required and slashes aren't supported."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:267
+msgid "Activation email"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:590
+msgid "Activation email cannot be empty."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:714
+msgid "Active"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:294
+msgid "Add for example a PDF with your terms & conditions."
+msgstr ""
+
+#: includes/class-invoice.php:116
+msgid "Advanced Table Content"
+msgstr ""
+
+#: includes/class-invoice.php:173
+msgid "As a single total"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:311
+msgid "Attach to Emails"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:246
+#, php-format
+msgid ""
+"Automatically send PDF invoice after a specific period of time. When enabled,"
+" a new <a href=\"%s\">Customer invoice reminder</a> email will be used to "
+"send the PDF invoice."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:349
+#, php-format
+msgid "Available placeholders: %s."
+msgstr ""
+
+#. Author of the plugin
+msgid "Bas Elbers"
+msgstr ""
+
+#: includes/class-bulk-export.php:37
+msgid "Bulk Export PDF Invoices"
+msgstr ""
+
+#: includes/class-bulk-export.php:38
+msgid "Bulk Export PDF Packing Slips"
+msgstr ""
+
+#: includes/class-bulk-generate.php:37
+msgid "Bulk Generate PDF Invoices"
+msgstr ""
+
+#: includes/class-bulk-generate.php:38
+msgid "Bulk Generate PDF Packing Slips"
+msgstr ""
+
+#: includes/class-bulk-print.php:36
+msgid "Bulk Print PDF Packing Slips"
+msgstr ""
+
+#: includes/class-invoice.php:103
+msgid "Cancelled"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:684
+msgid "Choose"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:493
+msgid "Choose the type of date to count from."
+msgstr ""
+
+#: includes/class-invoice.php:193 includes/class-invoice.php:198
+#: includes/class-invoice.php:401 includes/class-invoice.php:405
+#: includes/templates/invoice/global/micro/body.php:57
+msgid "Cost"
+msgstr ""
+
+#: includes/class-invoice-global.php:323
+msgid ""
+"Could not generate the invoice. Global invoices are only supported when "
+"using the micro template."
+msgstr ""
+
+#: includes/class-credit-note.php:348
+msgid "Create PDF Credit Notes for selected refund(s)"
+msgstr ""
+
+#: includes/class-credit-note.php:328
+#, php-format
+msgid "created on %1$s at %2$s"
+msgstr ""
+
+#: includes/templates/credit-note/simple/minimal/body.php:35
+msgid "Credit Note"
+msgstr ""
+
+#: includes/class-credit-note.php:378
+msgid "Credit note"
+msgstr ""
+
+#: includes/templates/credit-note/simple/minimal/header.php:39
+#, php-format
+msgid "Credit Note #: %s"
+msgstr ""
+
+#: includes/emails/class-wc-email-credit-note.php:51
+msgid "Credit note for order {order_number}"
+msgstr ""
+
+#: includes/emails/class-wc-email-credit-note.php:50
+msgid "Credit note for order {order_number} from {order_date}"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:238
+msgid "Credit Note Number Options"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:235
+msgid "Credit Note Options"
+msgstr ""
+
+#: includes/emails/class-wc-email-credit-note.php:43
+msgid "Customer credit note"
+msgstr ""
+
+#: includes/emails/class-wc-email-credit-note.php:44
+msgid ""
+"Customer credit note emails can be sent to customers containing their PDF "
+"Credit Note."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:373
+msgid "Customer generation period"
+msgstr ""
+
+#: includes/emails/class-wc-email-invoice-reminder.php:44
+msgid ""
+"Customer invoice reminder emails can be sent to customers containing their "
+"order information and payment links."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:488
+msgid "Date type"
+msgstr ""
+
+#: includes/templates/credit-note/simple/minimal/header.php:41
+#, php-format
+msgid "Date: %s"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:460
+msgid "Days until due date"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:474
+msgid "Days until reminder"
+msgstr ""
+
+#: includes/class-credit-note.php:330
+msgid "Delete"
+msgstr ""
+
+#: includes/class-invoice.php:188 includes/class-invoice.php:393
+#: includes/templates/invoice/global/micro/body.php:48
+msgid "Description"
+msgstr ""
+
+#: includes/class-invoice.php:236 includes/class-invoice.php:261
+#: includes/templates/invoice/global/micro/body.php:173
+msgid "Discount"
+msgstr ""
+
+#. tax or vat label
+#: includes/class-invoice.php:625
+#, php-format
+msgid "Discount %s"
+msgstr ""
+
+#: includes/class-invoice.php:164
+msgid "Display tax totals"
+msgstr ""
+
+#: includes/class-invoice-reminder.php:296
+msgid "Due Date:"
+msgstr ""
+
+#: includes/class-credit-note.php:429
+msgid "Email credit note to customer"
+msgstr ""
+
+#: includes/emails/class-wc-email-invoice-reminder.php:155
+msgid "Email heading"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:436
+msgid "Email message"
+msgstr ""
+
+#: includes/emails/class-wc-email-invoice-reminder.php:146
+#: includes/admin/settings/class-premium.php:424
+msgid "Email subject"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:405
+msgid "Email to customer"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:417
+msgid "Email to supplier(s)"
+msgstr ""
+
+#: includes/emails/class-wc-email-invoice-reminder.php:164
+msgid "Email type"
+msgstr ""
+
+#: includes/class-invoice.php:145
+msgid "Enable Advanced Table Content"
+msgstr ""
+
+#: includes/class-invoice.php:117
+msgid ""
+"Enable Advanced Table Content settings to fully customize line item columns "
+"and total rows. When enabled the standard Table Content settings will be "
+"ignored. When using a custom template, make sure to update it! Micro "
+"template is not supported."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:363
+msgid "Enable customer generation"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:453
+msgid "Enable reminder"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:508
+msgid "Enable Request Invoice."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:272
+#, php-format
+msgid "Enter your activation email from %s."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:283
+#, php-format
+msgid "Enter your license key from %s to receive updates."
+msgstr ""
+
+#: includes/class-invoice.php:246 includes/class-invoice.php:271
+msgid "Fee"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:651
+msgid "File to large."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:344
+msgid "Format"
+msgstr ""
+
+#: includes/admin/views/html-customer-generation.php:10
+msgid "Generate Global Invoice"
+msgstr ""
+
+#: includes/class-invoice-global.php:295
+msgid "Generate global invoice"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:242
+msgid ""
+"Generate global invoices on Orders page by selecting multiple orders and "
+"applying action or let customers generate periodically from My Account page. "
+"<strong>Global invoices are only supported when using the micro template!"
+"</strong>"
+msgstr ""
+
+#: includes/admin/views/html-customer-generation.php:47
+msgid "Generate invoice"
+msgstr ""
+
+#: includes/templates/invoice/global/micro/body.php:30
+msgid "Global Invoice"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:241
+msgid "Global Invoice Options"
+msgstr ""
+
+#: includes/admin/views/html-global-notice.php:16
+msgid "Global invoice successfully generated!"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wcpdfinvoices.com/"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:712
+msgid "Inactive"
+msgstr ""
+
+#: includes/class-invoice.php:61
+msgid ""
+"Instead consider creating a Cancelled PDF invoice by changing the order "
+"status to Cancelled."
+msgstr ""
+
+#: includes/class-invoice-global.php:228
+msgid "Invalid request"
+msgstr ""
+
+#: includes/templates/credit-note/simple/minimal/header.php:45
+#, php-format
+msgid "Invoice #: %s"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:496
+msgid "Invoice date"
+msgstr ""
+
+#: includes/templates/credit-note/simple/minimal/header.php:47
+#, php-format
+msgid "Invoice Date: %s"
+msgstr ""
+
+#: includes/emails/class-wc-email-invoice-reminder.php:50
+msgid "Invoice reminder for order {order_number}"
+msgstr ""
+
+#: includes/emails/class-wc-email-invoice-reminder.php:49
+msgid "Invoice reminder for order {order_number} from {order_date}"
+msgstr ""
+
+#: includes/templates/invoice/global/micro/body.php:9
+msgid "Invoice to"
+msgstr ""
+
+#: includes/class-invoice.php:172
+msgid "Itemized"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:250
+msgid ""
+"Let a customer decide to generate a PDF invoice. When enabled, a checkbox "
+"field will be added on the checkout page so customers can request a PDF "
+"invoice."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:365
+msgid "Let customers generate a global invoice from their account"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:278
+#: includes/admin/settings/class-premium.php:703
+msgid "License"
+msgstr ""
+
+#: includes/class-invoice.php:179
+msgid "Line item columns"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:441
+msgid "Message for the global invoice email."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:380
+msgid "Month"
+msgstr ""
+
+#: includes/class-invoice-reminder.php:80
+msgid "No"
+msgstr ""
+
+#: includes/class-bulk-export.php:85 includes/class-bulk-generate.php:73
+#: includes/class-bulk-print.php:78
+msgid "No order selected."
+msgstr ""
+
+#: includes/class-invoice-global.php:248
+msgid "No orders found."
+msgstr ""
+
+#: includes/templates/credit-note/simple/minimal/body.php:135
+#, php-format
+msgid "Note from customer: %s"
+msgstr ""
+
+#: includes/templates/credit-note/simple/minimal/body.php:140
+#, php-format
+msgid "Note to customer: %s"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:465
+msgid "Number of days from order or invoice date until due date."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:479
+msgid "Number of days from order or invoice date until reminder date."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:657
+msgid "Only PDF files are allowed."
+msgstr ""
+
+#: includes/templates/invoice/global/micro/body.php:89
+#, php-format
+msgid "Order #%d - %s"
+msgstr ""
+
+#: includes/templates/credit-note/simple/minimal/header.php:51
+#, php-format
+msgid "Order #: %s"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:495
+msgid "Order date"
+msgstr ""
+
+#: includes/templates/credit-note/simple/minimal/header.php:53
+#, php-format
+msgid "Order Date: %s"
+msgstr ""
+
+#: includes/templates/credit-note/simple/minimal/header.php:57
+#, php-format
+msgid "Payment Method: %s"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:289
+msgid "PDF attachment"
+msgstr ""
+
+#: includes/admin/views/html-credit-note.php:12
+#, php-format
+msgid "PDF Credit Note %1$s"
+msgstr ""
+
+#: includes/class-credit-note.php:174
+msgid "PDF Credit Notes"
+msgstr ""
+
+#: includes/templates/invoice/global/micro/body.php:14
+#, php-format
+msgid "Phone: %s"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:322
+msgid "Prefix"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:25
+msgid "Premium"
+msgstr ""
+
+#. Description of the plugin
+msgid "Premium extension for WooCommerce PDF Invoices plugin."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:225
+msgid "Premium Options"
+msgstr ""
+
+#: includes/templates/credit-note/simple/minimal/body.php:71
+msgid "Price"
+msgstr ""
+
+#: includes/templates/credit-note/simple/minimal/body.php:61
+msgid "Product"
+msgstr ""
+
+#: includes/templates/credit-note/simple/minimal/header.php:64
+#, php-format
+msgid "Purchase Order Number: %s"
+msgstr ""
+
+#: includes/class-invoice.php:397
+#: includes/templates/invoice/global/micro/body.php:59
+#: includes/templates/credit-note/simple/minimal/body.php:65
+msgid "Qty"
+msgstr ""
+
+#: includes/class-invoice.php:203
+msgid "Quantity"
+msgstr ""
+
+#: includes/class-invoice-reminder.php:83
+msgid "Reminder on:"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:245
+msgid "Reminder Options"
+msgstr ""
+
+#: includes/class-invoice-reminder.php:88
+msgid "Reminder sent?"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:682
+msgid "Remove"
+msgstr ""
+
+#: includes/class-invoice.php:993
+msgid "Request invoice"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:249
+msgid "Request Invoice Options"
+msgstr ""
+
+#: includes/admin/views/html-customer-generation.php:20
+msgid "Select a month"
+msgstr ""
+
+#: includes/admin/views/html-customer-generation.php:33
+msgid "Select a year"
+msgstr ""
+
+#: includes/class-invoice-global.php:336
+msgid "Select more then one order to generate a global invoice."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:232
+msgid "Send customer invoice automatically to your supplier(s)."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:393
+msgid "Send to your Cloud Storage"
+msgstr ""
+
+#: includes/woocommerce-pdf-invoices-premium.php:104
+msgid "Settings"
+msgstr ""
+
+#: includes/templates/invoice/global/micro/body.php:19
+msgid "Ship to"
+msgstr ""
+
+#: includes/templates/credit-note/simple/minimal/body.php:46
+msgid "Ship to:"
+msgstr ""
+
+#: includes/class-invoice.php:241 includes/class-invoice.php:266
+#: includes/templates/invoice/global/micro/body.php:182
+#: includes/templates/invoice/global/micro/body.php:200
+msgid "Shipping"
+msgstr ""
+
+#. tax or vat label
+#: includes/class-invoice.php:652
+#, php-format
+msgid "Shipping %s"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:378
+msgid ""
+"Should your customers have the ability to generate a global invoice by month "
+"or by year?<br/><strong>Note:</strong> Customer generation should be enabled."
+msgstr ""
+
+#: includes/class-invoice.php:157
+msgid "Show SKU as meta data"
+msgstr ""
+
+#: includes/templates/invoice/global/micro/body.php:53
+msgid "SKU"
+msgstr ""
+
+#: includes/class-invoice.php:349
+msgid "SKU:"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:630
+msgid ""
+"Something went wrong with the activation of your license. Contact the author "
+"for support."
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:429
+msgid "Subject for the global invoice email."
+msgstr ""
+
+#: includes/class-invoice.php:251 includes/class-invoice.php:256
+#: includes/templates/invoice/global/micro/body.php:191
+msgid "Subtotal"
+msgstr ""
+
+#. tax or vat label
+#: includes/class-invoice.php:607
+#, php-format
+msgid "Subtotal %s"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:333
+msgid "Suffix"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:231
+msgid "Supplier Options"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:300
+msgid "Suppliers"
+msgstr ""
+
+#: includes/woocommerce-pdf-invoices-premium.php:105
+msgid "Support"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:228
+msgid "Template Options"
+msgstr ""
+
+#: includes/class-invoice.php:213 includes/class-invoice.php:218
+#: includes/class-invoice.php:281 includes/class-invoice.php:286
+#: includes/class-invoice.php:413 includes/class-invoice.php:417
+#: includes/templates/invoice/global/micro/body.php:77
+#: includes/templates/invoice/global/micro/body.php:235
+msgid "Total"
+msgstr ""
+
+#. tax or vat label
+#: includes/class-invoice.php:866
+#, php-format
+msgid "Total %s"
+msgstr ""
+
+#: includes/class-invoice.php:227
+msgid "Total rows"
+msgstr ""
+
+#: includes/templates/invoice/global/micro/body.php:66
+msgid "VAT"
+msgstr ""
+
+#: includes/templates/credit-note/simple/minimal/header.php:73
+#, php-format
+msgid "VAT Number: %s"
+msgstr ""
+
+#: includes/admin/views/html-global-notice.php:17
+msgid "View"
+msgstr ""
+
+#: includes/admin/views/html-global-notice.php:17
+msgid "View invoice"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:99
+#, php-format
+msgid ""
+"Whoops, your license for %1$s has expired. To keep receiving updates and "
+"premium support, we offer you a 30%% discount when you <a href=\"%2$s\" "
+"target=\"_blank\">renew your license</a>."
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce PDF Invoices Premium"
+msgstr ""
+
+#: includes/admin/settings/class-premium.php:381
+msgid "Year"
+msgstr ""
+
+#: includes/class-invoice-reminder.php:80
+msgid "Yes"
+msgstr ""
+
+#: includes/templates/credit-note/simple/minimal/body.php:152
+msgid "Zero rated for VAT as customer has supplied EU VAT number"
+msgstr ""

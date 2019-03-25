@@ -1,0 +1,117 @@
+/*
+Theme Name: Wedo MyListing
+Template: my-listing
+Author: Wedo
+Description: MyListing - Smart and Powerful WordPress Directory Theme
+Tags: one-column,two-columns,three-columns,left-sidebar,right-sidebar,grid-layout,custom-menu,custom-logo,featured-images,footer-widgets,full-width-template,sticky-post,theme-options,threaded-comments,translation-ready
+Version: 1.6.1
+Updated: 2018-02-20 13:03:43
+
+*/
+
+@media screen and (max-width: 992px) {
+    .home .form-group.explore-filter.md-group.wp-search-filter {
+        width: initial!important;
+    }
+}
+.box:hover{
+    box-shadow: 0 0 32px 0 rgba(0, 0, 0, 0.15);
+}
+
+.map .contact-map {height:669px;}
+
+.result-wrapper #page-head {
+    margin-top: 89px; 
+}
+#page-head header img {
+    margin-right: 23px;
+    max-height: 54px;
+}
+
+#page-head .sharing {
+    margin-top: 22px;
+}
+#page-head .sharing .buttons , #page-head .sharing .buttons.sn-share{
+    font-family: "Source Sans Pro", sans-serif !important;
+ font-weight: 600;
+}
+
+#page-head .sharing li{
+    display: inline-block; 
+}
+
+#page-head .sharing .dropdown  li {
+    display: block;
+}
+
+@media screen and (max-width: 767px) {
+    #page-head .sharing li .buttons i{ 
+          float: none;
+    }
+    
+    #page-head .sharing li{
+    display: block; 
+}
+}
+
+
+#page-head.member-login > img {
+    max-height: 541px;
+}
+
+
+#page-head.member-login  .buttons {  
+    padding: 12px 15px;
+}
+
+.slider-for .slick-slide img {
+    max-height: 541px; 
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+    height: 541px;
+
+}
+
+.slider-nav img {
+    width: 100%;
+    max-height: 170px;
+    object-fit: cover;
+    object-position: center center;
+    height: 170px;  
+}
+.box5 {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.single-job_listing .tab-content .row {
+    margin-right: -10px;
+    margin-left: -10px; 
+} 
+span.red{color: red;}
+span.green{color: green;}
+span.orange{color: #ffa602;}
+
+.emp-count{}
+#page-head hr {
+    border-top: 2px solid #d1d1d1;
+}
+.emp-count .icon{margin-right: 25px;}
+.emp-count .icon img{  width: 43px;
+  height: 43px;}
+#page-head .emp-count p{
+    font-family: "Source Sans Pro", sans-serif ;
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    color: #000000;
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+}
+.emp-count p span{
+font-weight: bold;
+    margin-left: 15px;
+}
+
+.single-job-listing #page-head .detail-box figure img {max-width:150px;}
+.no-image {min-height:500px;}

@@ -1,0 +1,2746 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WPFreelance\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-12 13:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: template-parts/bid-loop.php:75
+#, php-format
+msgid " %s"
+msgstr ""
+
+#: template-parts/workspace.php:130
+msgid " Add File"
+msgstr ""
+
+#: page-my-credit.php:65
+msgid " Please setup paypal email or bank account to widthdraw"
+msgstr ""
+
+#: page-signup-jobseeker.php:59 page-signup-employer.php:62
+msgid " This page only available for visitor"
+msgstr ""
+
+#: inc/class_profile.php:86
+#, php-format
+msgid "%s %s/h"
+msgstr ""
+
+#: inc/class_message.php:62 inc/escrow/class_escrow.php:49
+#, php-format
+msgid "%s assigned you in project <i>%s</i>"
+msgstr ""
+
+#: inc/class_bid.php:177
+#, php-format
+msgid "%s bid on project <i>%s</i>"
+msgstr ""
+
+#: inc/class-wp-ajax.php:781
+#, php-format
+msgid "%s job found"
+msgid_plural "%s jobs found"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class_bid.php:40
+#, php-format
+msgid "%s just canceled bid  on the project <i>%s</i>"
+msgstr ""
+
+#: single-project.php:120
+#, php-format
+msgid "%s left"
+msgstr ""
+
+#: inc/class-wp-ajax.php:782
+#, php-format
+msgid "%s profile found"
+msgid_plural "%s profiles found"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/escrow/class_credit.php:379
+#, php-format
+msgid "%s send a request withdraw: %f "
+msgstr ""
+
+#: template-parts/workspace.php:95
+#, php-format
+msgid ""
+"%s sent a disputing request. This job is disputing and wait admin review. Go "
+"to <a href=\"?dispute=1\"> dispute section </a> to see the processing. In "
+"the whole process the disputing case. Chat will be disabled."
+msgstr ""
+
+#: inc/class_message.php:57
+#, php-format
+msgid "%s sent you a message in project <i>%s</i>"
+msgstr ""
+
+#: inc/class_bid.php:214
+#, php-format
+msgid "%s updated bid"
+msgstr ""
+
+#: inc/themes.php:90
+msgid "1 to 3 months"
+msgstr ""
+
+#: inc/themes.php:91
+msgid "3 to 6 months"
+msgstr ""
+
+#: inc/plugins/acf.php:45
+msgid "<h3> Custom Fields Addon</h3>"
+msgstr ""
+
+#: author.php:95
+#, php-format
+msgid "<label>Job worked:</label> %d"
+msgstr ""
+
+#: author.php:96
+#, php-format
+msgid "<label>Total earn:</label> %s"
+msgstr ""
+
+#: inc/class_option.php:79
+msgid ""
+"<p>Kindly deposite to this bank account:</p><p>Number: XXXXXXXXXX.</p><p>"
+"Bank: ANZ Bank.</p><p> Account name: Johnny Cook.</p><p>After get your fund, "
+"we will approve your order and you can access your credit.</p"
+msgstr ""
+
+#: page-my-credit.php:126 page-my-credit.php:143 page-my-credit.php:144
+msgid "Account number or IBAN"
+msgstr ""
+
+#: admin/templates/escrow.php:158
+msgid ""
+"Account use to get/set API and use to receive the commision fee if have."
+msgstr ""
+
+#: template-parts/dashboard/list-all-projects.php:58
+msgid "Action"
+msgstr ""
+
+#: template-parts/dashboard/list-projects.php:21
+msgid "Active"
+msgstr ""
+
+#: template-parts/dashboard/list-bids.php:25
+msgid "Activity"
+msgstr ""
+
+#: inc/init_hook.php:115 inc/init_hook.php:181 inc/init_hook.php:211
+msgid "Add New Category"
+msgstr ""
+
+#: inc/init_hook.php:373
+msgctxt "add new on admin bar"
+msgid "Order"
+msgstr ""
+
+#: inc/init_hook.php:442
+msgctxt "add new on admin bar"
+msgid "Package"
+msgstr ""
+
+#: inc/init_hook.php:375
+msgid "Add New Order"
+msgstr ""
+
+#: inc/init_hook.php:444
+msgid "Add New Package"
+msgstr ""
+
+#: inc/init_hook.php:118
+msgid "Add or remove Categories"
+msgstr ""
+
+#: inc/init_hook.php:214
+msgid "Add or remove Countries"
+msgstr ""
+
+#: inc/init_hook.php:184
+msgid "Add or remove Skills"
+msgstr ""
+
+#: template-parts/profile/edit-profile-footer.php:46
+msgid "Add Portfolio"
+msgstr ""
+
+#: template-parts/profile/edit-profile-footer.php:77
+#: template-parts/profile/edit-fre-freelancer.php:200
+msgid "Add portfolio"
+msgstr ""
+
+#: inc/class-wp-ajax.php:873
+msgid "Add portfolio successful"
+msgstr ""
+
+#: functions.php:261
+msgid "Add widgets here to appear in Blog page."
+msgstr ""
+
+#: functions.php:250
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: page-my-credit.php:87
+msgid ""
+"Add your phone or note some tips to help admin easy to transfer money to you."
+msgstr ""
+
+#: template-parts/profile/edit-fre-subscriber-form.php:49
+msgid "Add your skill then click \"Update\". We'll email you suitable new job."
+msgstr ""
+
+#: template-parts/profile/edit-fre-freelancer.php:133
+msgid "Address"
+msgstr ""
+
+#: template-parts/dispute.php:86
+msgid "Admin add feedback here"
+msgstr ""
+
+#: inc/init_hook.php:372
+msgctxt "admin menu"
+msgid "Orders"
+msgstr ""
+
+#: inc/init_hook.php:441
+msgctxt "admin menu"
+msgid "Packages"
+msgstr ""
+
+#: sidebar/archive-profiles.php:78 sidebar/archive-projects.php:76
+#: template-parts/archive-sidebar.php:55
+msgid "Advance Filter"
+msgstr ""
+
+#: sidebar/archive-profiles.php:4
+msgid "Advance Filters"
+msgstr ""
+
+#: inc/plugins/acf.php:71
+msgid "Advances Custom Fields Pro"
+msgstr ""
+
+#: inc/init_hook.php:110
+msgid "All Categories"
+msgstr ""
+
+#: inc/init_hook.php:206
+msgid "All Countries"
+msgstr ""
+
+#: inc/init_hook.php:379
+msgid "All Orders"
+msgstr ""
+
+#: inc/init_hook.php:448
+msgid "All Packages"
+msgstr ""
+
+#: inc/init_hook.php:176
+msgid "All Skills"
+msgstr ""
+
+#: template-parts/dashboard/list-bids.php:24
+#: template-parts/dashboard/list-projects-other.php:24
+#: template-parts/dashboard/list-all-projects.php:28
+msgid "All Status"
+msgstr ""
+
+#: page-my-credit.php:69
+msgid "Amout"
+msgstr ""
+
+#: admin/templates/escrow.php:175
+msgid "API App ID"
+msgstr ""
+
+#: admin/templates/escrow.php:167
+msgid "API Password"
+msgstr ""
+
+#: admin/templates/escrow.php:171
+msgid "API Signarute"
+msgstr ""
+
+#: admin/templates/escrow.php:162
+msgid "API User ID"
+msgstr ""
+
+#: admin/templates/escrow.php:179
+msgid "APP-80W284485P519543T is default APP ID for sandbox mode."
+msgstr ""
+
+#: single-project.php:75 author.php:44
+msgid "Approve"
+msgstr ""
+
+#: template-parts/dashboard/list-order.php:21
+msgid "Approved"
+msgstr ""
+
+#: single-project.php:77 inc/themes.php:368
+msgid "Archived"
+msgstr ""
+
+#: template-parts/dashboard/list-projects-other.php:79
+#: template-parts/dashboard/list-all-projects.php:77
+#: template-parts/dashboard/list-projects-active.php:40
+#, php-format
+msgid "Archived %s"
+msgstr ""
+
+#: inc/escrow/class_credit.php:139
+msgid "Assign job failse"
+msgstr ""
+
+#: inc/escrow/class_workspace.php:111
+msgid "Assign job successful."
+msgstr ""
+
+#: template-parts/single-project-detail-bid-form.php:70
+msgid "Attachments (optional)"
+msgstr ""
+
+#: page-my-credit.php:48
+#, php-format
+msgid "Avaibale: %s"
+msgstr ""
+
+#: inc/class-wp-ajax.php:441 inc/class-wp-ajax.php:447
+msgid "Award job successful"
+msgstr ""
+
+#: 404.php:14
+msgid "Back home"
+msgstr ""
+
+#: single-project.php:103
+msgid "Back to Detail"
+msgstr ""
+
+#: page-my-credit.php:79
+msgid "Bank Account"
+msgstr ""
+
+#: page-my-credit.php:56
+msgid "Bank account"
+msgstr ""
+
+#: page-my-credit.php:131 page-my-credit.php:148
+msgid "Bank name"
+msgstr ""
+
+#: template-parts/single-project-detail-bid-form.php:74
+msgid "Bid"
+msgstr ""
+
+#: sidebar-project.php:8 sidebar-project.php:10
+msgid "Bid Now"
+msgstr ""
+
+#: template-parts/single-project-detail-bid-form.php:23
+msgid "Bid on project"
+msgstr ""
+
+#: template-parts/single-project-detail-bid-form.php:26
+msgid "Bid price"
+msgstr ""
+
+#: functions.php:259
+msgid "Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Blog page"
+msgstr ""
+
+#: admin/admin.php:150
+msgid "Box Settings"
+msgstr ""
+
+#. Author of the theme
+msgid "BoxThemes"
+msgstr ""
+
+#: template-parts/archive-sidebar.php:50
+msgid "Budget"
+msgstr ""
+
+#: inc/milestones/init_milestone.php:74
+#, php-format
+msgid "Budget of this milestone(%s)?"
+msgstr ""
+
+#: single-project.php:87
+#, php-format
+msgid "Budget(%s)"
+msgstr ""
+
+#: inc/class_project.php:156
+#, php-format
+msgid "Budget: %s"
+msgstr ""
+
+#: page-my-credit.php:49
+msgid "Buy Credit"
+msgstr ""
+
+#: template-parts/dashboard/list-order.php:23
+msgid "Buy credit"
+msgstr ""
+
+#: admin/templates/currency_package.php:70
+msgid "Buy Credit Package plan"
+msgstr ""
+
+#. Name of the template
+msgid "Buy Deposit"
+msgstr ""
+
+#: static-block/one-package-plan.php:36
+msgid "Buy Now"
+msgstr ""
+
+#: static-block/static-block/one-package-plan.php:26
+msgid "Buy now"
+msgstr ""
+
+#: template-parts/project/form-post-project.php:178
+msgid ""
+"By clicking 'Post Job Now', you are indicating that you have read and agree "
+"to the Terms & Conditions and Privacy Policy"
+msgstr ""
+
+#: inc/class-wp-ajax.php:947
+msgid "Can not send new email."
+msgstr ""
+
+#: template-parts/single-project-detail-bid-form.php:75
+msgid "Cancel"
+msgstr ""
+
+#: template-parts/bid-loop.php:113
+msgid "CANCEL (X)"
+msgstr ""
+
+#: inc/core_functions.php:185
+msgid "Captcha Invalid."
+msgstr ""
+
+#: inc/init_hook.php:121 sidebar/archive-projects.php:25
+#: template-parts/archive-sidebar.php:5
+#: template-parts/single-project-detail.php:55
+msgid "Categories"
+msgstr ""
+
+#: page-buy-credit.php:71
+msgid "Check Out"
+msgstr ""
+
+#: admin/templates/payment_gateways.php:25
+msgid "Checkout mode"
+msgstr ""
+
+#: template-parts/dispute.php:83
+msgid "Choose employer winner"
+msgstr ""
+
+#: template-parts/dispute.php:82
+msgid "Choose freelancer winner"
+msgstr ""
+
+#: inc/init_hook.php:119
+msgid "Choose from the most used Categories"
+msgstr ""
+
+#: inc/init_hook.php:215
+msgid "Choose from the most used Countries"
+msgstr ""
+
+#: inc/init_hook.php:185
+msgid "Choose from the most used Skills"
+msgstr ""
+
+#: page-reset-password.php:19
+msgid "Choose your new password"
+msgstr ""
+
+#: admin/admin.php:55
+msgid "Click into this button to setup sample data."
+msgstr ""
+
+#: admin/templates/general.php:94
+msgid "Client ID"
+msgstr ""
+
+#: template-parts/project/project-loop.php:31
+msgid "Client:"
+msgstr ""
+
+#: modal/mobile-login.php:27 template-parts/profile/edit-profile-footer.php:30
+msgid "Close"
+msgstr ""
+
+#: footer.php:18 inc/class_customizer.php:52
+msgid "Commercial"
+msgstr ""
+
+#: admin/templates/escrow.php:19
+msgid "Commision"
+msgstr ""
+
+#: admin/templates/escrow.php:23
+msgid "Commistion type"
+msgstr ""
+
+#: inc/themes.php:367 template-parts/dashboard/list-bids.php:27
+msgid "Complete"
+msgstr ""
+
+#: admin/templates/escrow.php:15
+msgid "Config Escrow system"
+msgstr ""
+
+#: page-reset-password.php:39
+msgid "Confirm Password:"
+msgstr ""
+
+#: inc/class_option.php:192
+msgid ""
+"Congart #display_name, <p>Your bidding is choosen in the project: <i>"
+"#project_name<i/>. You can click <a href=\"#project_link\">here</a> to check "
+"the detail.</p> <p>Regards, </p>"
+msgstr ""
+
+#: footer.php:16 inc/class_customizer.php:50
+msgid "Contact Us"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/init_hook.php:607
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/workspace.php:99
+msgid "Conversation"
+msgstr ""
+
+#: admin/templates/general.php:30
+msgid "Copyright text"
+msgstr ""
+
+#: inc/themes.php:75
+msgid "Could not save password reset key to database."
+msgstr ""
+
+#: inc/init_hook.php:217
+msgid "Countries"
+msgstr ""
+
+#: template-parts/profile/edit-emp-overview.php:88
+#: template-parts/profile/edit-fre-freelancer.php:144
+msgid "Country"
+msgstr ""
+
+#: template-parts/single-project-detail-bid-form.php:53
+msgid "Cover Letter"
+msgstr ""
+
+#: template-parts/dashboard/list-bids.php:50
+msgid "Cover letter"
+msgstr ""
+
+#: inc/class_bid.php:107
+msgid "Cover letter is empty."
+msgstr ""
+
+#: template-parts/bid-loop.php:69
+msgid "Cover letter is hidden"
+msgstr ""
+
+#: admin/templates/currency_package.php:147
+#: admin/templates/currency_package.php:279
+msgid "Create"
+msgstr ""
+
+#: page-signup-employer.php:15
+msgid "Create a employer account in seconds and post a job right now"
+msgstr ""
+
+#: page-signup-jobseeker.php:16
+msgid "Create a freelancer account in seconds and bid a job right now"
+msgstr ""
+
+#: inc/class-wp-ajax.php:426
+msgid "Create conversation successful"
+msgstr ""
+
+#: template-parts/form-signup.php:8
+msgid "Create your freelancer account in seconds and bidding a job right now"
+msgstr ""
+
+#: admin/templates/escrow.php:68 admin/templates/escrow.php:80
+msgid "Credit System"
+msgstr ""
+
+#. Name of the template
+msgid "Credit system"
+msgstr ""
+
+#: admin/templates/currency_package.php:42
+#: admin/templates/currency_package.php:44
+msgid "Currency Position"
+msgstr ""
+
+#: author.php:120 template-parts/list-bid.php:16
+msgid "Date"
+msgstr ""
+
+#: template-parts/dashboard/list-projects-other.php:49
+#: template-parts/dashboard/list-all-projects.php:55
+#: template-parts/dashboard/list-projects-processing.php:23
+#: template-parts/dashboard/list-projects-active.php:23
+msgid "DATE POSTED"
+msgstr ""
+
+#: template-parts/bid-loop.php:61
+#, php-format
+msgid "Date: %s"
+msgstr ""
+
+#: author.php:46
+msgid "Deactivate"
+msgstr ""
+
+#. Name of the template
+msgid "Debug"
+msgstr ""
+
+#: admin/templates/currency_package.php:57
+msgid "Decimal Separator"
+msgstr ""
+
+#. Name of the template
+msgid "Default template"
+msgstr ""
+
+#: template-parts/dashboard/list-projects-other.php:85
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: template-parts/dashboard/list-order.php:26
+msgid "Deposit"
+msgstr ""
+
+#: inc/payment/class_order.php:196
+#, php-format
+msgid "Deposit for the project %s"
+msgstr ""
+
+#: inc/escrow/class_credit.php:534
+msgid "Depossit has something wrong"
+msgstr ""
+
+#: inc/milestones/init_milestone.php:78
+msgid "DESCRIBE OF THIS MILESTONE"
+msgstr ""
+
+#: inc/milestones/init_milestone.php:79
+msgid "Describe this milestone here..."
+msgstr ""
+
+#: template-parts/project/form-post-project.php:105
+msgid "DESCRIBE YOUR PROJECT"
+msgstr ""
+
+#: template-parts/project/form-post-project.php:106
+msgid "Describe your project here..."
+msgstr ""
+
+#: author.php:121 template-parts/list-bid.php:32
+msgid "Description"
+msgstr ""
+
+#: admin/templates/currency_package.php:143
+#: admin/templates/currency_package.php:275
+msgid "Description of new package"
+msgstr ""
+
+#: inc/init_hook.php:388 inc/init_hook.php:457
+msgid "Description."
+msgstr ""
+
+#: admin/templates/currency_package.php:93
+#: admin/templates/currency_package.php:206
+msgid "Detail"
+msgstr ""
+
+#: template-parts/profile/edit-emp-overview.php:68
+#: template-parts/profile/edit-emp-overview.php:72
+msgid "Display name"
+msgstr ""
+
+#: sidebar-project.php:42 inc/themes.php:357 template-parts/workspace.php:16
+#: template-parts/workspace.php:26 template-parts/single-template-js.php:248
+msgid "Dispute"
+msgstr ""
+
+#: template-parts/dispute.php:4
+msgid "Dispute section"
+msgstr ""
+
+#: inc/themes.php:369
+msgid "Disputing"
+msgstr ""
+
+#: single-project.php:105
+msgid "Disputing section"
+msgstr ""
+
+#: template-parts/dashboard/list-bids.php:28
+msgid "Disputing/Resolved"
+msgstr ""
+
+#: template-parts/profile/edit-fre-subscriber-form.php:48
+msgid "Don't miss your next job!"
+msgstr ""
+
+#: inc/themes.php:365 template-parts/dashboard/list-order.php:21
+msgid "Draft"
+msgstr ""
+
+#: template-parts/project/form-post-project.php:122
+msgid ""
+"Drag drop any images or documents that might be helpful in explaining your "
+"project brief here"
+msgstr ""
+
+#: inc/class_profile.php:80
+#, php-format
+msgid "Earned : %s"
+msgstr ""
+
+#: template-parts/profile/edit-fre-freelancer.php:103
+msgid "Edit"
+msgstr ""
+
+#: inc/init_hook.php:113 inc/init_hook.php:179 inc/init_hook.php:209
+msgid "Edit Category"
+msgstr ""
+
+#: inc/init_hook.php:377
+msgid "Edit Order"
+msgstr ""
+
+#: inc/init_hook.php:446
+msgid "Edit Package"
+msgstr ""
+
+#: admin/templates/currency_package.php:160
+#: admin/templates/currency_package.php:292
+msgid "Edit package plan"
+msgstr ""
+
+#: page-signup.php:38 template-parts/profile/edit-emp-overview.php:78
+#: template-parts/profile/edit-fre-freelancer.php:105
+msgid "Email"
+msgstr ""
+
+#: modal/mobile-login.php:10
+msgid "Email / Username"
+msgstr ""
+
+#: inc/class_user.php:75
+msgid "Email is empty"
+msgstr ""
+
+#: admin/templates/email.php:32
+msgid "Email Notifications"
+msgstr ""
+
+#: admin/templates/email.php:33
+msgid ""
+"Email notifications sent from job board are listed below. Click on an email "
+"to configure it."
+msgstr ""
+
+#: template-parts/workspace.php:67
+#: template-parts/profile/list-bid-done-loop.php:32
+#: template-parts/profile/list-bid-status-loop.php:30
+msgid "Employer did not left a review"
+msgstr ""
+
+#: sidebar-project.php:46
+msgid "Employer Information"
+msgstr ""
+
+#: template-parts/single-project-detail-bid-form.php:19
+msgid "Employer pay this fee"
+msgstr ""
+
+#: template-parts/workspace.php:57
+msgid "Employer review:"
+msgstr ""
+
+#. freelancer still not review employer yet.
+#: template-parts/workspace.php:63
+msgid ""
+"Employer reviewed and mark as close this project. <br />You have to  review "
+"the project to see employer's review."
+msgstr ""
+
+#: template-parts/dispute.php:38
+msgid "Employer send feedback to admin here"
+msgstr ""
+
+#: inc/class_post.php:210 inc/class_post.php:222
+msgid "Empty job content"
+msgstr ""
+
+#. Name of the template
+msgid "Empty page"
+msgstr ""
+
+#: inc/class_post.php:207 inc/class_post.php:219
+msgid "Empty post title"
+msgstr ""
+
+#: admin/templates/general.php:140
+msgid ""
+"Enable this to help your website security more and safe. Add captcha code in "
+"login form and in register form - <a target=\"_blank\" href=\"https://www."
+"google.com/recaptcha/admin#list\" target=\"_blank\" rel=\"nofollow\">get "
+"key</a>"
+msgstr ""
+
+#: sidebar/archive-profiles.php:8 sidebar/archive-projects.php:5
+msgid "Enter skills"
+msgstr ""
+
+#: page-login.php:62
+msgid "Enter you email"
+msgstr ""
+
+#: page-login.php:28
+msgid "Enter you username"
+msgstr ""
+
+#: page-login.php:31
+msgid "Enter your password"
+msgstr ""
+
+#: inc/milestones/init_milestone.php:75
+msgid "Ex: 100"
+msgstr ""
+
+#: template-parts/project/form-post-project.php:51
+msgid "Ex: Build a website"
+msgstr ""
+
+#: inc/milestones/init_milestone.php:71
+msgid "Ex: Step 1."
+msgstr ""
+
+#: admin/templates/general.php:37
+msgid "Facebook link"
+msgstr ""
+
+#: inc/core_functions.php:700
+msgid "Featured"
+msgstr ""
+
+#: template-parts/single-project-detail-bid-form.php:36
+msgid "Fee Service"
+msgstr ""
+
+#: template-parts/single-project-detail-bid-form.php:38
+msgid "Fee service"
+msgstr ""
+
+#: template-parts/single-template-js.php:94
+msgid "Fee service: {{{data.commission_fee}}}"
+msgstr ""
+
+#: template-parts/single-project-detail.php:29
+msgid "Files attach: "
+msgstr ""
+
+#: template-parts/list-bid.php:15
+msgid "Filter by"
+msgstr ""
+
+#: landing-page-one.php:52
+msgid "Find a Freelancer"
+msgstr ""
+
+#: seach_form.php:8 seach_form.php:17
+msgid "Find a freelancer"
+msgstr ""
+
+#: landing-page-one.php:54
+msgid "Find a Job"
+msgstr ""
+
+#: seach_form.php:4 seach_form.php:14
+msgid "Find a job"
+msgstr ""
+
+#: page-signup-jobseeker.php:21 page-signup-employer.php:20
+#: template-parts/profile/edit-emp-overview.php:53
+msgid "First Name"
+msgstr ""
+
+#: template-parts/form-signup.php:13
+#: template-parts/profile/edit-emp-overview.php:49
+msgid "First name"
+msgstr ""
+
+#: admin/templates/escrow.php:26
+msgid "Fix number"
+msgstr ""
+
+#: archive-project.php:76 template-parts/project/project-loop.php:18
+msgid "Fixed Price"
+msgstr ""
+
+#: inc/themes.php:326
+#, php-format
+msgid "Fixed Price: %s"
+msgstr ""
+
+#: admin/templates/email.php:88
+msgid "Footer text"
+msgstr ""
+
+#: page-login.php:48 modal/mobile-login.php:20
+msgid "Forgot password?"
+msgstr ""
+
+#: seach_form.php:18
+msgid "Freelancer"
+msgstr ""
+
+#: template-parts/list-bid.php:31
+msgid "Freelancer Bidding"
+msgstr ""
+
+#: template-parts/single-project-detail-bid-form.php:16
+msgid "Freelancer pay this fee"
+msgstr ""
+
+#: template-parts/workspace.php:78
+#: template-parts/profile/list-project-status-loop.php:25
+msgid "Freelancer review:"
+msgstr ""
+
+#: template-parts/dispute.php:36
+msgid "Freelancer send feedback to admin here"
+msgstr ""
+
+#: template-parts/single-template-js.php:100
+msgid ""
+"Freelancer will be received:<a href=\"#\" data-toggle=\"tooltip\" "
+"title=\"Some tooltip text!\">?</a> {{{data.fre_receive}}}"
+msgstr ""
+
+#: template-parts/single-template-js.php:84
+msgid "Freelancer: {{{data.fre_displayname}}}"
+msgstr ""
+
+#: sidebar-project.php:60
+#, php-format
+msgid "Freelancers hired <span class='text-right pull-right'>%d</span>"
+msgstr ""
+
+#: sidebar-project.php:58
+#, php-format
+msgid "From <span class=\"pull-right\"> %s</span>"
+msgstr ""
+
+#: admin/templates/email.php:97
+msgid "From Address"
+msgstr ""
+
+#: admin/templates/email.php:93
+msgid "From name"
+msgstr ""
+
+#. Name of the template
+msgid "FullWidth"
+msgstr ""
+
+#. Name of the template
+msgid "FullWidth & No title"
+msgstr ""
+
+#: single-project.php:101
+msgid "Go to Workspace"
+msgstr ""
+
+#: admin/templates/general.php:27
+msgid "Google Analytics Script"
+msgstr ""
+
+#: admin/templates/general.php:123
+msgid "Google Captcha"
+msgstr ""
+
+#: admin/templates/general.php:47
+msgid "Google Plus link"
+msgstr ""
+
+#: inc/class_post.php:37 inc/class-wp-ajax.php:169
+msgid "Has something wrong"
+msgstr ""
+
+#: admin/templates/email.php:76
+msgid "Header Email Image"
+msgstr ""
+
+#: inc/class_option.php:173
+msgid ""
+"Hello #display_name, <p>#employer_name just sent a new message for you in "
+"the project: <i>#project_name<i/>. You can click <a href=\"#project_link\">"
+"here</a> to check the detail.</p> <p>Regards, </p>"
+msgstr ""
+
+#: inc/class_mail.php:331
+#, php-format
+msgid ""
+"Hello %s,<p>This is new confirmation email from %s.</p>Kindly click <a "
+"href=\"%s\">here</a> to active your account.<p>Regards,"
+msgstr ""
+
+#: inc/class_option.php:179
+msgid ""
+"Hello , <p>There is a new job match with your skill. This is the detail job:"
+"</p>\n"
+"\t\t\t\t<p>Job title: #project_name<br />Author: #author_name. <br />Skills: "
+"#skill_list. </p>\n"
+"\n"
+"\t\t\t\t<p> You can check the detail job <a class=\"link\" "
+"href=\"#project_link\">here</a>.</p> <p>Regards, </p>"
+msgstr ""
+
+#: footer.php:17 inc/class_customizer.php:51
+msgid "Help & Resources"
+msgstr ""
+
+#: page-signup.php:49 template-parts/single-template-js.php:79
+#: template-parts/single-template-js.php:114
+msgid "Hire"
+msgstr ""
+
+#: template-parts/bid-loop.php:111
+msgid "Hire Freelancer"
+msgstr ""
+
+#: template-parts/dashboard/list-order.php:3
+msgid "History of credit"
+msgstr ""
+
+#: template-parts/profile/edit-fre-freelancer.php:115
+msgid "Hour rate"
+msgstr ""
+
+#: template-parts/single-project-detail-bid-form.php:58
+msgid "How long will this project take?"
+msgstr ""
+
+#: page-my-credit.php:70
+msgid "How much you want to withdraw?"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://boxthemes.net/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://boxthemes.net/themes/freelance-marketplace-theme/"
+msgstr ""
+
+#: landing-page-one.php:43
+msgid "I want to hire"
+msgstr ""
+
+#: landing-page-one.php:46
+msgid "I want to work"
+msgstr ""
+
+#: admin/templates/general.php:23
+msgid ""
+"if enable this option, all job only appearances in the site after admin "
+"manually approve it."
+msgstr ""
+
+#: page-verify.php:81
+msgid ""
+"If you did not receive that email. You can click <a href=\"#\" class=\"btn-"
+"resend\"> here</a> to resend a new email"
+msgstr ""
+
+#. Name of the template
+#: inc/themes.php:270
+msgid "Inbox"
+msgstr ""
+
+#: admin/templates/currency_package.php:130
+#: admin/templates/currency_package.php:253
+msgid "Insert new package"
+msgstr ""
+
+#: inc/class-wp-ajax.php:243
+msgid "Insert project fail"
+msgstr ""
+
+#: inc/class-wp-ajax.php:178
+msgid "Invalid captcha"
+msgstr ""
+
+#: inc/plugable.php:202
+msgid "Invalid nonce field"
+msgstr ""
+
+#: inc/themes.php:42
+msgid "Invalid username"
+msgstr ""
+
+#: seach_form.php:15
+msgid "Job"
+msgstr ""
+
+#: inc/themes.php:354
+msgid "Job Detail"
+msgstr ""
+
+#: template-parts/single-project-detail.php:8
+msgid "Job Details"
+msgstr ""
+
+#: template-parts/workspace.php:43
+msgid "Job is complete."
+msgstr ""
+
+#: template-parts/dashboard/list-projects-other.php:46
+#: template-parts/dashboard/list-all-projects.php:52
+#: template-parts/dashboard/list-projects-processing.php:21
+#: template-parts/dashboard/list-projects-active.php:21
+msgid "JOB TITLE"
+msgstr ""
+
+#: static-block/one-list-profiles.php:68
+#: static-block/static-block/one-list-profiles.php:66
+#, php-format
+msgid "Join since %s"
+msgstr ""
+
+#: page-verify.php:26
+msgid "Key is expired"
+msgstr ""
+
+#. Name of the template
+msgid "LandingPage 1"
+msgstr ""
+
+#. Name of the template
+msgid "LandingPage 2"
+msgstr ""
+
+#: page-signup-jobseeker.php:24 page-signup.php:28 page-signup-employer.php:23
+#: template-parts/profile/edit-emp-overview.php:62
+msgid "Last Name"
+msgstr ""
+
+#: template-parts/form-signup.php:16
+#: template-parts/profile/edit-emp-overview.php:58
+msgid "Last name"
+msgstr ""
+
+#: template-parts/single-template-js.php:185
+msgid ""
+"Leave your detail message here that help employer know the status of project "
+"and your message."
+msgstr ""
+
+#: template-parts/single-template-js.php:146
+#: template-parts/single-template-js.php:186
+#: template-parts/single-template-js.php:215
+#: template-parts/single-template-js.php:245
+msgid "Leave your review here."
+msgstr ""
+
+#. Name of the template
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/themes.php:89
+msgid "Less than 1 month"
+msgstr ""
+
+#: inc/themes.php:88
+msgid "Less than 1 week"
+msgstr ""
+
+#: template-parts/single-template-js.php:180
+msgid "Let employer know that you have completed this job"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Libre Franklin, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:202
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr ""
+
+#. Name of the template
+msgid "List categoires"
+msgstr ""
+
+#: inc/themes.php:436
+msgid "List categories is empty"
+msgstr ""
+
+#: template-parts/profile/edit-emp-overview.php:27
+#: template-parts/profile/edit-fre-freelancer.php:28
+msgid "List country is empty"
+msgstr ""
+
+#: admin/templates/currency_package.php:73
+msgid "List package plan"
+msgstr ""
+
+#: admin/templates/currency_package.php:121
+#: admin/templates/currency_package.php:244
+msgid "List package plan is empty"
+msgstr ""
+
+#: template-parts/profile/list-bid-status.php:13
+#: template-parts/profile/list-bid-done.php:13
+msgid "List project are disputed"
+msgstr ""
+
+#: template-parts/profile/list-project-status.php:14
+msgid "List project are done"
+msgstr ""
+
+#: template-parts/profile/list-project-status.php:12
+msgid "List project are publish"
+msgstr ""
+
+#: template-parts/profile/list-project-status.php:13
+msgid "List project are working"
+msgstr ""
+
+#: template-parts/profile/list-bid-status.php:10
+#: template-parts/profile/list-bid-done.php:10
+msgid "List projects are bidding"
+msgstr ""
+
+#: template-parts/profile/list-bid-status.php:11
+#: template-parts/profile/list-bid-done.php:11
+msgid "List projects are working"
+msgstr ""
+
+#: template-parts/profile/list-bid-status.php:12
+#: template-parts/profile/list-bid-done.php:12
+msgid "List projects done"
+msgstr ""
+
+#: admin/templates/general.php:33
+msgid "List social link in the footer"
+msgstr ""
+
+#: admin/templates/payment_gateways.php:26
+msgid "Live mode is"
+msgstr ""
+
+#: admin/templates/escrow.php:142
+msgid "Live mode is enabling."
+msgstr ""
+
+#: sidebar/archive-profiles.php:28
+msgid "Locations"
+msgstr ""
+
+#: page-login.php:45 header.php:81
+msgid "Log In"
+msgstr ""
+
+#: modal/mobile-login.php:17
+msgid "Login"
+msgstr ""
+
+#: inc/themes.php:28
+msgid "Login fail"
+msgstr ""
+
+#: inc/themes.php:272
+msgid "Logout"
+msgstr ""
+
+#: static-block/one-list-profiles.php:25
+msgid "Looking for Professional Freelancers?"
+msgstr ""
+
+#: admin/templates/email.php:81
+msgid "Main bg color"
+msgstr ""
+
+#: admin/templates/general.php:20
+msgid "Main options"
+msgstr ""
+
+#: functions.php:248
+msgid "Main sidebar"
+msgstr ""
+
+#: template-parts/workspace.php:24
+msgid "Mark as Complete"
+msgstr ""
+
+#: template-parts/single-template-js.php:136
+msgid "Mark as finish and review this project/freelancer."
+msgstr ""
+
+#: modal/mobile-login.php:6
+msgid "Member Login"
+msgstr ""
+
+#: sidebar-project.php:54
+#, php-format
+msgid "Member Since %s"
+msgstr ""
+
+#: inc/milestones/init_milestone.php:70
+msgid "Milestone name:"
+msgstr ""
+
+#: inc/themes.php:92
+msgid "More than 6 months"
+msgstr ""
+
+#: inc/themes.php:266
+msgid "My Credit"
+msgstr ""
+
+#: inc/themes.php:261
+msgid "My Job"
+msgstr ""
+
+#: page-my-profile.php:21 inc/themes.php:268
+msgid "My Profile"
+msgstr ""
+
+#. Name of the template
+#: inc/themes.php:263 template-parts/dashboard/list-all-projects.php:20
+#: template-parts/dashboard/list-projects.php:18
+msgid "My Projects"
+msgstr ""
+
+#: page-my-profile.php:22
+msgid "My Subscriber"
+msgstr ""
+
+#: admin/templates/email.php:37
+msgid "Name"
+msgstr ""
+
+#: page-my-credit.php:121 page-my-credit.php:138 page-my-credit.php:139
+msgid "Name on account"
+msgstr ""
+
+#: inc/init_hook.php:116 inc/init_hook.php:182 inc/init_hook.php:212
+msgid "New Category Name"
+msgstr ""
+
+#: inc/class-wp-ajax.php:971
+msgid "New email is sent."
+msgstr ""
+
+#: inc/class_option.php:178
+msgid "New job match with your skill"
+msgstr ""
+
+#: modal/mobile-login.php:21
+msgid "New Member"
+msgstr ""
+
+#: inc/init_hook.php:376
+msgid "New Order"
+msgstr ""
+
+#: inc/init_hook.php:445
+msgid "New Package"
+msgstr ""
+
+#: page-reset-password.php:30
+msgid "New Password:"
+msgstr ""
+
+#: admin/templates/email.php:22
+msgid "New withdrawal request"
+msgstr ""
+
+#: inc/init_hook.php:120
+msgid "No Categories found."
+msgstr ""
+
+#: inc/init_hook.php:216
+msgid "No Countries found."
+msgstr ""
+
+#: inc/class_customizer.php:45
+msgid "No menu to select"
+msgstr ""
+
+#: inc/init_hook.php:383
+msgid "No orders found in Trash."
+msgstr ""
+
+#: inc/init_hook.php:382
+msgid "No orders found."
+msgstr ""
+
+#: inc/init_hook.php:452
+msgid "No Packages found in Trash."
+msgstr ""
+
+#: inc/init_hook.php:451
+msgid "No Packages found."
+msgstr ""
+
+#. Name of the template
+msgid "No sidebar"
+msgstr ""
+
+#: inc/init_hook.php:186
+msgid "No Skills found."
+msgstr ""
+
+#: template-parts/profile/list-bid-status-loop.php:49
+msgid "Not left a review here"
+msgstr ""
+
+#: inc/class_profile.php:73 inc/class_project.php:160
+msgid "Not set"
+msgstr ""
+
+#: page-my-credit.php:85
+msgid "Note"
+msgstr ""
+
+#: admin/templates/escrow.php:84
+msgid "Number Credit Auto Deposit for new account"
+msgstr ""
+
+#: inc/class_bid.php:97
+msgid "Only freelancer can bid."
+msgstr ""
+
+#: inc/themes.php:363
+msgid "Open"
+msgstr ""
+
+#: template-parts/project/form-post-project.php:146
+msgid "Optional Upgrades"
+msgstr ""
+
+#: admin/templates/currency_package.php:187
+msgid "Options plan"
+msgstr ""
+
+#: inc/init_hook.php:374
+msgctxt "order"
+msgid "Add New"
+msgstr ""
+
+#: template-parts/list-bid.php:12
+msgid "Order by"
+msgstr ""
+
+#: author.php:81 template-parts/profile/edit-fre-overview.php:13
+msgid "Overviews"
+msgstr ""
+
+#: inc/init_hook.php:443
+msgctxt "Package"
+msgid "Add New"
+msgstr ""
+
+#. Name of the template
+msgid "Page Employer Signup"
+msgstr ""
+
+#. Name of the template
+msgid "Page Jobseeker Signup"
+msgstr ""
+
+#. Name of the template
+msgid "Page Login"
+msgstr ""
+
+#. Name of the template
+msgid "Page Signup"
+msgstr ""
+
+#: inc/init_hook.php:381
+msgid "Parent Orders:"
+msgstr ""
+
+#: inc/init_hook.php:450
+msgid "Parent Packages:"
+msgstr ""
+
+#: page-signup-jobseeker.php:40 page-login.php:31 page-signup.php:43
+#: page-signup-employer.php:44 template-parts/form-signup.php:32
+#: modal/mobile-login.php:13
+msgid "Password"
+msgstr ""
+
+#: page-post-project.php:47
+msgid "Pay Now"
+msgstr ""
+
+#: page-post-project.php:37
+msgid "Pay to upgrade job"
+msgstr ""
+
+#: admin/templates/payment_gateways.php:22
+msgid "Payent Gateways Settings"
+msgstr ""
+
+#: page-my-credit.php:55 page-my-credit.php:76
+msgid "PayPal"
+msgstr ""
+
+#: admin/templates/escrow.php:152
+msgid "PayPal Account"
+msgstr ""
+
+#: admin/templates/escrow.php:69
+msgid "PayPal Adaptive"
+msgstr ""
+
+#: admin/templates/escrow.php:149
+msgid "PayPal Adaptive Live Mode Settings"
+msgstr ""
+
+#: admin/templates/escrow.php:149
+msgid "PayPal Adaptive Sandbox Mode Settings"
+msgstr ""
+
+#: page-my-credit.php:101 template-parts/profile/edit-fre-freelancer.php:177
+msgid "PayPal Email"
+msgstr ""
+
+#: page-my-credit.php:105
+msgid "PayPal Email:"
+msgstr ""
+
+#: inc/themes.php:364 template-parts/dashboard/list-order.php:21
+msgid "Pending"
+msgstr ""
+
+#: admin/templates/general.php:22
+msgid "Pending jobs"
+msgstr ""
+
+#: admin/templates/escrow.php:27
+msgid "Percent"
+msgstr ""
+
+#: template-parts/profile/edit-fre-freelancer.php:124
+msgid "Phone"
+msgstr ""
+
+#: inc/escrow/class_workspace.php:337
+msgid "Please choose a freelancer."
+msgstr ""
+
+#: inc/class_project.php:194
+msgid "Please log in your account again."
+msgstr ""
+
+#: page-buy-credit.php:76
+msgid "Please login to buy credit"
+msgstr ""
+
+#: page-post-project.php:18
+msgid "Please login to post project"
+msgstr ""
+
+#: inc/class_portfolio.php:34
+msgid "Please select 1 image"
+msgstr ""
+
+#: inc/escrow/class_workspace.php:257
+msgid "Please select 1 option."
+msgstr ""
+
+#: inc/payment/class_paypal.php:72
+msgid "Please set receiver email"
+msgstr ""
+
+#: inc/escrow/class_credit.php:346
+msgid "Please set your payment method to withdraw"
+msgstr ""
+
+#: inc/plugable.php:205
+msgid "Please try again."
+msgstr ""
+
+#: inc/init_hook.php:109
+msgid "Popular Categories"
+msgstr ""
+
+#: inc/init_hook.php:205
+msgid "Popular Countries"
+msgstr ""
+
+#: inc/init_hook.php:175
+msgid "Popular Skills"
+msgstr ""
+
+#: author.php:158
+msgid "Portfolio"
+msgstr ""
+
+#: template-parts/profile/edit-profile-footer.php:49
+msgid "Portfolio name"
+msgstr ""
+
+#: landing-page-one.php:63
+msgid "Post a Job"
+msgstr ""
+
+#: template-parts/profile/edit-profile-footer.php:50
+msgid "Post content "
+msgstr ""
+
+#: inc/themes.php:325
+#, php-format
+msgid "Post date: %s"
+msgstr ""
+
+#: static-block/one-package-plan.php:40 static-block/one-package-plan.php:58
+#: template-parts/project/form-post-project.php:4
+msgid "Post Job Now"
+msgstr ""
+
+#: sidebar-project.php:15
+msgid "Post new job"
+msgstr ""
+
+#. Name of the template
+msgid "Post project"
+msgstr ""
+
+#: admin/templates/currency_package.php:184
+msgid "Post project option"
+msgstr ""
+
+#: inc/init_hook.php:370
+msgctxt "post type general name"
+msgid "Orders"
+msgstr ""
+
+#: inc/init_hook.php:439
+msgctxt "post type general name"
+msgid "Packages Plan"
+msgstr ""
+
+#: inc/init_hook.php:371
+msgctxt "post type singular name"
+msgid "Order"
+msgstr ""
+
+#: inc/init_hook.php:440
+msgctxt "post type singular name"
+msgid "Package"
+msgstr ""
+
+#: single-project.php:122
+#, php-format
+msgid "Posted %s ago"
+msgstr ""
+
+#: template-parts/dashboard/list-bids.php:52
+msgid "Posted date"
+msgstr ""
+
+#: single.php:8
+msgid "Posted: "
+msgstr ""
+
+#: author.php:122 template-parts/list-bid.php:17 template-parts/list-bid.php:33
+#: admin/templates/currency_package.php:92
+#: admin/templates/currency_package.php:205
+#: template-parts/dashboard/list-bids.php:51
+msgid "Price"
+msgstr ""
+
+#. Name of the template
+msgid "Process payment"
+msgstr ""
+
+#: template-parts/dashboard/list-projects.php:20
+msgid "Processing"
+msgstr ""
+
+#: template-parts/profile/edit-fre-freelancer.php:101
+msgid "Profile info"
+msgstr ""
+
+#. Name of the template
+msgid "Profile of current user."
+msgstr ""
+
+#: inc/class_bid.php:104
+msgid "Project is empty."
+msgstr ""
+
+#: template-parts/project/form-post-project.php:50
+msgid "PROJECT NAME:"
+msgstr ""
+
+#: sidebar-project.php:59
+#, php-format
+msgid "Project posted <span class='text-right pull-right'>%d</span>"
+msgstr ""
+
+#: template-parts/dashboard/list-bids.php:49
+msgid "Project Title"
+msgstr ""
+
+#: template-parts/dashboard/list-projects-other.php:47
+#: template-parts/dashboard/list-all-projects.php:53
+#: template-parts/dashboard/list-projects-processing.php:22
+#: template-parts/dashboard/list-projects-active.php:22
+msgid "PROPOSALS"
+msgstr ""
+
+#: template-parts/workspace.php:20 template-parts/single-template-js.php:218
+msgid "Quit Job"
+msgstr ""
+
+#: template-parts/list-bid.php:18
+msgid "Rating"
+msgstr ""
+
+#: template-parts/profile/list-bid-status-loop.php:41
+msgid "Rating and review by freelancer:"
+msgstr ""
+
+#: template-parts/single-template-js.php:148
+msgid "Rating: "
+msgstr ""
+
+#: inc/class_mail.php:330
+#, php-format
+msgid "Re-confirmation email from %s"
+msgstr ""
+
+#: admin/templates/general.php:135 admin/templates/general.php:136
+msgid "reCaptcha Secret Key"
+msgstr ""
+
+#: admin/templates/general.php:131 admin/templates/general.php:132
+msgid "reCaptcha Site Key"
+msgstr ""
+
+#: template-parts/dashboard/list-order.php:28
+msgid "Receive"
+msgstr ""
+
+#: admin/templates/email.php:39
+msgid "Receiver"
+msgstr ""
+
+#: template-parts/dashboard/list-order.php:27
+msgid "Refund"
+msgstr ""
+
+#: inc/payment/class_order.php:234
+#, php-format
+msgid "Refund for the project %s"
+msgstr ""
+
+#: page-login.php:50
+msgid "Register new account?"
+msgstr ""
+
+#: page-login.php:34
+msgid "Remember login"
+msgstr ""
+
+#: inc/themes.php:294
+msgid "Remove"
+msgstr ""
+
+#: inc/class-wp-ajax.php:560
+msgid "Remove attachment fail"
+msgstr ""
+
+#: inc/class-wp-ajax.php:558
+msgid "Remove attachment successful"
+msgstr ""
+
+#: template-parts/dashboard/list-projects-other.php:73
+#, php-format
+msgid "Renew %s"
+msgstr ""
+
+#: template-parts/project/form-post-project.php:47
+msgid "Renew project"
+msgstr ""
+
+#: template-parts/project/form-post-project.php:19
+msgid "Renew Your Job"
+msgstr ""
+
+#: inc/class_option.php:161
+msgid "Reset password at #blog_name"
+msgstr ""
+
+#. Name of the template
+msgid "Reset Password Login"
+msgstr ""
+
+#: page-login.php:59
+msgid "Reset your password"
+msgstr ""
+
+#: inc/themes.php:370
+msgid "Resolved"
+msgstr ""
+
+#: template-parts/workspace.php:32
+msgid "Review"
+msgstr ""
+
+#: template-parts/single-template-js.php:138
+msgid "Review employer of this project"
+msgstr ""
+
+#: inc/escrow/class_credit.php:205
+msgid "Review fail"
+msgstr ""
+
+#: inc/class-wp-ajax.php:464 inc/class-wp-ajax.php:491
+msgid "Review job"
+msgstr ""
+
+#: inc/class-wp-ajax.php:471 inc/class-wp-ajax.php:497
+msgid "Review job done"
+msgstr ""
+
+#: admin/admin.php:58
+msgid "Sample data is imported."
+msgstr ""
+
+#: admin/templates/escrow.php:139
+msgid "Sandbox Mode"
+msgstr ""
+
+#: admin/templates/escrow.php:144
+msgid "Sandbox mode is enabling."
+msgstr ""
+
+#: page-my-credit.php:109 page-my-credit.php:151
+#: template-parts/profile/edit-fre-overview.php:42
+#: template-parts/profile/edit-emp-overview.php:101
+#: template-parts/profile/edit-fre-freelancer.php:92
+#: template-parts/profile/edit-fre-freelancer.php:189
+msgid "Save"
+msgstr ""
+
+#: template-parts/profile/edit-profile-footer.php:31
+msgid "Save changes"
+msgstr ""
+
+#: inc/init_hook.php:108
+msgid "Search Categories"
+msgstr ""
+
+#: page-inbox.php:29
+msgid "Search conversations"
+msgstr ""
+
+#: inc/init_hook.php:204
+msgid "Search Countries"
+msgstr ""
+
+#: inc/init_hook.php:380
+msgid "Search Orders"
+msgstr ""
+
+#: inc/init_hook.php:449
+msgid "Search Packages"
+msgstr ""
+
+#: inc/class-wp-ajax.php:802
+msgid "Search result is empty"
+msgstr ""
+
+#: inc/init_hook.php:174
+msgid "Search Skills"
+msgstr ""
+
+#: inc/class-wp-ajax.php:588
+msgid "secutiry issues"
+msgstr ""
+
+#: page-buy-credit.php:50 inc/core_functions.php:646 inc/core_functions.php:663
+#: inc/core_functions.php:684
+msgid "Select"
+msgstr ""
+
+#: template-parts/project/form-post-project.php:61
+msgid "Select a category of work (optional)"
+msgstr ""
+
+#: page-buy-credit.php:17
+msgid "Select a package"
+msgstr ""
+
+#: page-buy-credit.php:67
+msgid "Select a payment method"
+msgstr ""
+
+#: template-parts/profile/edit-profile-footer.php:57
+msgid "Select an image"
+msgstr ""
+
+#: admin/templates/currency_package.php:27
+msgid "Select currency"
+msgstr ""
+
+#: template-parts/single-project-detail-bid-form.php:60
+msgid "Select duration"
+msgstr ""
+
+#: page-my-credit.php:73
+msgid "Select Method"
+msgstr ""
+
+#: template-parts/dispute.php:79
+msgid "Select option"
+msgstr ""
+
+#: page-post-project.php:41
+msgid "Select payment gateways"
+msgstr ""
+
+#: admin/templates/currency_package.php:266
+msgid "Select Priority"
+msgstr ""
+
+#: admin/templates/escrow.php:64
+msgid "Select the Eccrow system"
+msgstr ""
+
+#: template-parts/profile/edit-fre-subscriber-form.php:18
+#: template-parts/profile/edit-fre-freelancer.php:52
+msgid "Select your skills"
+msgstr ""
+
+#: page-buy-credit.php:50 inc/core_functions.php:646 inc/core_functions.php:663
+#: inc/core_functions.php:684
+msgid "Selected"
+msgstr ""
+
+#: page-login.php:69 inc/plugable.php:76 inc/plugable.php:79
+#: inc/plugable.php:121 template-parts/dispute.php:60
+#: template-parts/dispute.php:91 template-parts/single-template-js.php:21
+#: template-parts/single-template-js.php:189
+msgid "Send"
+msgstr ""
+
+#: template-parts/single-template-js.php:232
+msgid "Send a dispute request."
+msgstr ""
+
+#: template-parts/dispute.php:81
+msgid "Send a message to Employer"
+msgstr ""
+
+#: template-parts/dispute.php:80
+msgid "Send a messsage to Freelancer"
+msgstr ""
+
+#: template-parts/bid-loop.php:101 template-parts/bid-loop.php:108
+msgid "Send Message"
+msgstr ""
+
+#: page-my-credit.php:89
+msgid "Send request"
+msgstr ""
+
+#: template-parts/single-project-detail-bid-form.php:72
+msgid "Send this file to project's owner."
+msgstr ""
+
+#: inc/init_hook.php:117
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: inc/init_hook.php:213
+msgid "Separate Countries with commas"
+msgstr ""
+
+#: inc/init_hook.php:183
+msgid "Separate Skills with commas"
+msgstr ""
+
+#: admin/templates/payment_gateways.php:41
+msgid "Set PayPal Email"
+msgstr ""
+
+#: admin/templates/payment_gateways.php:54
+msgid "Set publishable_key "
+msgstr ""
+
+#: admin/templates/payment_gateways.php:57
+msgid "Set secret_key "
+msgstr ""
+
+#: template-parts/profile/edit-profile-footer.php:80
+#: template-parts/profile/edit-profile-footer.php:84
+msgid "Set title"
+msgstr ""
+
+#: template-parts/project/form-post-project.php:56
+#, php-format
+msgid "Set your budget here(%s)"
+msgstr ""
+
+#: template-parts/profile/edit-fre-freelancer.php:83
+msgid "Set your youtube video ID here"
+msgstr ""
+
+#: admin/templates/email.php:70
+msgid "Setting email"
+msgstr ""
+
+#: admin/templates/general.php:128
+msgid "Settings"
+msgstr ""
+
+#: page-my-credit.php:117
+msgid "Setup your bank account"
+msgstr ""
+
+#: page-signup-jobseeker.php:15 page-signup-jobseeker.php:54
+#: page-signup-employer.php:14 page-signup-employer.php:57
+#: template-parts/form-signup.php:7
+msgid "SIGN UP"
+msgstr ""
+
+#: page-signup.php:58 header.php:84
+msgid "Sign Up"
+msgstr ""
+
+#: page-empty.php:49
+msgid "Sign up"
+msgstr ""
+
+#: inc/init_hook.php:187 sidebar/archive-profiles.php:7
+#: sidebar/archive-profiles.php:47 sidebar/archive-projects.php:4
+#: sidebar/archive-projects.php:41 template-parts/archive-sidebar.php:21
+msgid "Skills"
+msgstr ""
+
+#: template-parts/single-project-detail.php:46
+msgid "Skills Required"
+msgstr ""
+
+#: admin/templates/currency_package.php:91
+#: admin/templates/currency_package.php:204
+msgid "SKU"
+msgstr ""
+
+#: admin/templates/general.php:33
+msgid "Social Links"
+msgstr ""
+
+#: functions.php:54 functions.php:172
+msgid "Social Links Menu"
+msgstr ""
+
+#: admin/templates/general.php:66
+msgid "Social Login"
+msgstr ""
+
+#: inc/social/class_social.php:25
+msgid "Sorry, that email address is already used!"
+msgstr ""
+
+#: inc/class_project.php:155
+#, php-format
+msgid "Spent %s"
+msgstr ""
+
+#: template-parts/dashboard/list-bids.php:53
+#: template-parts/dashboard/list-projects-other.php:50
+msgid "Status"
+msgstr ""
+
+#: inc/themes.php:324
+#, php-format
+msgid "Status: %s"
+msgstr ""
+
+#: admin/templates/currency_package.php:90
+#: admin/templates/currency_package.php:203
+msgid "STT"
+msgstr ""
+
+#: admin/templates/email.php:38
+msgid "Subject"
+msgstr ""
+
+#: template-parts/single-template-js.php:165
+msgid "Submit"
+msgstr ""
+
+#: template-parts/post-loop.php:17
+msgid "Tags:"
+msgstr ""
+
+#: inc/init_hook.php:106
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: inc/init_hook.php:202
+msgctxt "taxonomy general name"
+msgid "Countries"
+msgstr ""
+
+#: inc/init_hook.php:172
+msgctxt "taxonomy general name"
+msgid "Skills"
+msgstr ""
+
+#: inc/init_hook.php:107 inc/init_hook.php:173
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: inc/init_hook.php:203
+msgctxt "taxonomy singular name"
+msgid "Country"
+msgstr ""
+
+#: inc/payment/class_order.php:212
+#, php-format
+msgid "The fund transfer to freelancer on project %s"
+msgstr ""
+
+#: sidebar/archive-profiles.php:41
+msgid "The is not any locations"
+msgstr ""
+
+#: inc/core_functions.php:693
+msgid "The is not any payment gateways"
+msgstr ""
+
+#: inc/class-wp-ajax.php:159 inc/class-wp-ajax.php:247
+#: inc/class-wp-ajax.php:299
+msgid "The nonce field is incorrect"
+msgstr ""
+
+#: inc/payment/functions.php:62
+msgid "The order is not equal"
+msgstr ""
+
+#: inc/themes.php:40
+msgid "The password field is empty"
+msgstr ""
+
+#: inc/themes.php:44
+#, php-format
+msgid "The password you entered for the username %s is incorrect"
+msgstr ""
+
+#: inc/themes.php:38
+msgid "The username field is empty"
+msgstr ""
+
+#: admin/admin.php:25 admin/admin.php:113
+msgid "Theme Options"
+msgstr ""
+
+#: functions.php:143
+msgctxt "Theme starter content"
+msgid "Coffee"
+msgstr ""
+
+#: functions.php:135
+msgctxt "Theme starter content"
+msgid "Espresso"
+msgstr ""
+
+#: functions.php:139
+msgctxt "Theme starter content"
+msgid "Sandwich"
+msgstr ""
+
+#: archive-project.php:23
+#, php-format
+msgid "There are %s jobs."
+msgstr ""
+
+#: archive-profile.php:25 archive-profile.php:33
+#, php-format
+msgid "There are %s profiles."
+msgstr ""
+
+#: archive-project.php:30
+#, php-format
+msgid "There are %s projects."
+msgstr ""
+
+#: template-parts/dashboard/list-bids.php:77
+msgid "There are no bid."
+msgstr ""
+
+#: template-parts/dashboard/list-projects-other.php:96
+#: template-parts/dashboard/list-all-projects.php:84
+#: template-parts/dashboard/list-projects-processing.php:48
+#: template-parts/dashboard/list-projects-active.php:49
+msgid "There are no projects."
+msgstr ""
+
+#: template-parts/list-bid.php:46
+msgid "There is no any bid yet."
+msgstr ""
+
+#: page-inbox.php:76
+msgid "There is no any conversations yet."
+msgstr ""
+
+#: template-parts/profile/edit-fre-freelancer.php:229
+msgid "There is no any portfolio yet"
+msgstr ""
+
+#: inc/themes.php:299
+msgid "There is no new notification"
+msgstr ""
+
+#: author.php:133
+msgid "There is not any feedback"
+msgstr ""
+
+#: admin/credit.php:65 admin/credit.php:112
+msgid "There is not any order yet"
+msgstr ""
+
+#: page-buy-credit.php:60
+msgid "There is not any packages yet"
+msgstr ""
+
+#: author.php:46
+msgid "This account is active"
+msgstr ""
+
+#: author.php:44
+msgid "This account is inactive"
+msgstr ""
+
+#: page-dashboard.php:23
+msgid "This content only availble for user logged in"
+msgstr ""
+
+#: template-parts/single-project-detail-bid-form.php:44
+msgid "This fund auto release to your balance after the project finish."
+msgstr ""
+
+#: inc/class-wp-ajax.php:1019
+msgid "This is email not available"
+msgstr ""
+
+#: inc/escrow/class_workspace.php:44
+msgid "This job is archived"
+msgstr ""
+
+#: inc/escrow/class_workspace.php:334
+msgid "This job is not available."
+msgstr ""
+
+#: inc/escrow/class_escrow.php:121 inc/escrow/class_workspace.php:351
+msgid "This project is not available"
+msgstr ""
+
+#: template-parts/single-template-js.php:135
+msgid ""
+"This project mark as done and the fund will be released to freelancer "
+"account after submit this form."
+msgstr ""
+
+#: admin/templates/currency_package.php:53
+msgid "Thousand Separator"
+msgstr ""
+
+#: functions.php:53 functions.php:163
+msgid "Top Menu"
+msgstr ""
+
+#: template-parts/list-bid.php:7
+#, php-format
+msgid "Total Bid(s): %s"
+msgstr ""
+
+#: sidebar-project.php:61
+#, php-format
+msgid "Total spent (%s) <span class='text-right pull-right'>%s</span>"
+msgstr ""
+
+#: admin/templates/general.php:42
+msgid "Twitter link"
+msgstr ""
+
+#: template-parts/single-template-js.php:19
+msgid "Type your message here"
+msgstr ""
+
+#: inc/class-wp-ajax.php:952
+msgid "Unsecurity request"
+msgstr ""
+
+#: admin/templates/currency_package.php:226
+#: template-parts/profile/edit-fre-freelancer.php:146
+msgid "Unset"
+msgstr ""
+
+#: admin/templates/currency_package.php:176
+#: admin/templates/currency_package.php:317
+#: template-parts/profile/edit-fre-subscriber-form.php:40
+msgid "Update"
+msgstr ""
+
+#: inc/class-wp-ajax.php:314
+msgid "Update  successful"
+msgstr ""
+
+#: inc/class-wp-ajax.php:533
+msgid "Update avatar ok"
+msgstr ""
+
+#: inc/init_hook.php:114 inc/init_hook.php:180 inc/init_hook.php:210
+msgid "Update Category"
+msgstr ""
+
+#: inc/class-wp-ajax.php:516
+msgid "Update user information successful"
+msgstr ""
+
+#: inc/class-wp-ajax.php:941
+msgid "Update withdraw info done."
+msgstr ""
+
+#: template-parts/profile/edit-fre-overview.php:36
+#: template-parts/profile/edit-fre-overview.php:37
+msgid "Update your cover letter here"
+msgstr ""
+
+#: template-parts/project/form-post-project.php:116
+msgid "Upload Files"
+msgstr ""
+
+#: inc/class-wp-ajax.php:699
+#, php-format
+msgid "Upload new file: %s"
+msgstr ""
+
+#: inc/core_functions.php:701
+msgid "Urgent"
+msgstr ""
+
+#: page-signup.php:33 page-signup-employer.php:29
+msgid "User Name"
+msgstr ""
+
+#: page-signup-jobseeker.php:30 template-parts/form-signup.php:22
+msgid "User name"
+msgstr ""
+
+#: inc/class_user.php:78
+msgid "User name is empty"
+msgstr ""
+
+#: page-login.php:28
+msgid "Username or Email"
+msgstr ""
+
+#: page-verify.php:78
+msgid "Verification Required"
+msgstr ""
+
+#. Name of the template
+msgid "Verify account"
+msgstr ""
+
+#: static-block/one-list-profiles.php:89
+#: static-block/static-block/one-list-profiles.php:87
+msgid "View All Profiles"
+msgstr ""
+
+#: inc/init_hook.php:378
+msgid "View Order"
+msgstr ""
+
+#: inc/init_hook.php:447
+msgid "View Package"
+msgstr ""
+
+#: page-verify.php:80
+#, php-format
+msgid ""
+"We've sent an email to your address: <strong>%s</strong><br /> Please check "
+"your email and click on the link provided to verify your account."
+msgstr ""
+
+#: template-parts/project/form-post-project.php:55
+#, php-format
+msgid "What budget do you have in mind(%s)?"
+msgstr ""
+
+#: template-parts/project/form-post-project.php:82
+msgid "WHAT SKILLS ARE REQUIRED?"
+msgstr ""
+
+#: template-parts/project/form-post-project.php:83
+msgid "What skills are required?"
+msgstr ""
+
+#: template-parts/project/form-post-project.php:60
+msgid "What type of work do you require?"
+msgstr ""
+
+#: admin/templates/escrow.php:32
+msgid "Who is pay commision"
+msgstr ""
+
+#: page-my-credit.php:54
+msgid "Widthdraw"
+msgstr ""
+
+#: template-parts/dashboard/list-order.php:24
+msgid "Withdraw"
+msgstr ""
+
+#: author.php:69 template-parts/profile/edit-fre-overview.php:3
+msgid "WordPress Developer"
+msgstr ""
+
+#: page-signup.php:52
+msgid "Work"
+msgstr ""
+
+#: author.php:107
+msgid "Work History and Feedback"
+msgstr ""
+
+#: inc/themes.php:366 template-parts/dashboard/list-bids.php:26
+msgid "Working"
+msgstr ""
+
+#: sidebar-project.php:42
+msgid "WorkSpace"
+msgstr ""
+
+#: inc/themes.php:356 template-parts/dashboard/list-projects-processing.php:41
+msgid "Workspace"
+msgstr ""
+
+#. Description of the theme
+msgid "WP Freelance WordPress Theme"
+msgstr ""
+
+#. Name of the theme
+msgid "WPFreelance"
+msgstr ""
+
+#: template-parts/single-template-js.php:205
+msgid ""
+"Write down your reason here. Also, this job will be masked as disputing "
+"status and wait admin review and make a decsion."
+msgstr ""
+
+#: page-login.php:60
+msgid "Wrong username og password"
+msgstr ""
+
+#: page-signup-jobseeker.php:48 page-signup-employer.php:52
+#, php-format
+msgid ""
+"Yes, I understand and agree <a href=\"%s\" target=\"_blank\">All Terms of "
+"Service</a>"
+msgstr ""
+
+#: inc/class_project.php:187
+msgid "You are not allow to perform this action"
+msgstr ""
+
+#: inc/class-wp-ajax.php:553
+msgid "You are not allowed to perform this action"
+msgstr ""
+
+#: inc/escrow/class_workspace.php:270
+msgid "You are not allowed to perform this action."
+msgstr ""
+
+#: inc/escrow/class_escrow.php:126 inc/escrow/class_workspace.php:331
+#: inc/escrow/class_workspace.php:356
+msgid "You are not author of this project."
+msgstr ""
+
+#: template-parts/single-template-js.php:233
+msgid ""
+"You are not happy to work on this. Please write your reason here. This job "
+"will be masked as disputing status and wait us review."
+msgstr ""
+
+#: template-parts/single-template-js.php:235
+msgid ""
+"You are not happy to work with freelancer or the result of this contractor. "
+"Pleas write down your reason here. This job will be masked as disputing "
+"status and wait us review."
+msgstr ""
+
+#: inc/escrow/class_workspace.php:375
+msgid "You are not winner."
+msgstr ""
+
+#: inc/class_post.php:180
+msgid "You can not archived this job"
+msgstr ""
+
+#: inc/class_bid.php:134
+msgid "You can not bid on your own project."
+msgstr ""
+
+#: inc/class_bid.php:34 inc/class_post.php:166
+msgid "You can not delete a portfolio of another account"
+msgstr ""
+
+#: inc/class_post.php:125
+msgid "You can not renew this job"
+msgstr ""
+
+#: inc/class_bid.php:193
+msgid "You can not update this bid"
+msgstr ""
+
+#: inc/class_user.php:98
+msgid "You can not update this role"
+msgstr ""
+
+#: inc/class_profile.php:197
+msgid "You don't have permission to update."
+msgstr ""
+
+#: inc/class-wp-ajax.php:257
+msgid "You have archived job successfully"
+msgstr ""
+
+#: inc/class-wp-ajax.php:293
+msgid "You have bid successful"
+msgstr ""
+
+#: inc/class-wp-ajax.php:306
+msgid "You have bid successfully"
+msgstr ""
+
+#: inc/class-wp-ajax.php:256
+msgid "You have deleted job successfully"
+msgstr ""
+
+#: inc/themes.php:33
+msgid "You have logged succesful"
+msgstr ""
+
+#: inc/class-wp-ajax.php:227
+msgid "You have logout successful"
+msgstr ""
+
+#: inc/class-wp-ajax.php:254
+msgid "You have posted job successfully"
+msgstr ""
+
+#: inc/class-wp-ajax.php:206
+msgid "You have registered successful"
+msgstr ""
+
+#: inc/escrow/class_escrow.php:115 inc/escrow/class_workspace.php:345
+#: inc/escrow/class_workspace.php:363
+msgid "You have to set score"
+msgstr ""
+
+#: inc/class_bid.php:122
+msgid "You have to set your PayPal email to bid."
+msgstr ""
+
+#: inc/class-wp-ajax.php:255
+msgid "You have updated job successfully"
+msgstr ""
+
+#: inc/class-wp-ajax.php:359
+msgid "You have updated profile successfull"
+msgstr ""
+
+#: template-parts/project/form-post-project.php:126
+msgid "You have uploaded this file before"
+msgstr ""
+
+#: inc/escrow/class_credit.php:355
+#, php-format
+msgid "You only can withdraw less than %s."
+msgstr ""
+
+#: inc/escrow/class_workspace.php:369
+msgid "You revieded this project."
+msgstr ""
+
+#: inc/core_functions.php:679
+msgid "You will checkout via cash method"
+msgstr ""
+
+#: inc/core_functions.php:640
+msgid "You will checkout via paypal"
+msgstr ""
+
+#: inc/core_functions.php:657
+msgid "You will checkout via stripe"
+msgstr ""
+
+#: template-parts/single-template-js.php:89
+msgid "You will deposit: {{{data.emp_pay}}}"
+msgstr ""
+
+#: template-parts/single-project-detail-bid-form.php:43
+msgid "You'll be paid"
+msgstr ""
+
+#: inc/class_bid.php:114
+msgid "You've bid on this project"
+msgstr ""
+
+#: admin/templates/payment_gateways.php:53
+msgid "Your  publishable_key"
+msgstr ""
+
+#: admin/templates/payment_gateways.php:56
+msgid "Your  secret_key"
+msgstr ""
+
+#: page-verify.php:36
+msgid "Your account is verified. You are redirecting to home page."
+msgstr ""
+
+#: page-verify.php:44
+msgid "Your account is verified. You are redirecting to profile page."
+msgstr ""
+
+#: inc/escrow/class_credit.php:352
+msgid "Your amout must bigger than 10$"
+msgstr ""
+
+#: page-my-credit.php:94
+msgid "Your balance is not enough to withdraw"
+msgstr ""
+
+#: page-my-credit.php:140
+msgid "Your bank account name"
+msgstr ""
+
+#: template-parts/dashboard/list-bids.php:19
+msgid "Your bids"
+msgstr ""
+
+#: template-parts/single-project-detail-bid-form.php:32
+msgid "Your budget"
+msgstr ""
+
+#: page-my-credit.php:47
+msgid "Your credit info"
+msgstr ""
+
+#: inc/escrow/class_credit.php:56
+msgid "Your credit is not enough to perform this transaction."
+msgstr ""
+
+#: page-signup-jobseeker.php:35 page-signup-employer.php:39
+msgid "Your Email"
+msgstr ""
+
+#: template-parts/form-signup.php:27
+#: template-parts/profile/edit-emp-overview.php:82
+msgid "Your email"
+msgstr ""
+
+#: template-parts/single-template-js.php:105
+msgid "Your message"
+msgstr ""
+
+#: page-process-payment.php:89
+msgid "Your order is approved "
+msgstr ""
+
+#: page-process-payment.php:105
+#, php-format
+msgid ""
+"Your order is completed. Check detail job <a href=\"%s\">Detail Project</a>"
+msgstr ""
+
+#: page-process-payment.php:101
+msgid ""
+"Your order is completed. The credit is deposited to your balance and you can "
+"use your credit now."
+msgstr ""
+
+#: page-my-credit.php:106
+msgid "Your PayPal Email"
+msgstr ""
+
+#: admin/templates/payment_gateways.php:40
+msgid "Your Paypal email"
+msgstr ""
+
+#: page-signup-employer.php:34
+msgid "Your Phone Number"
+msgstr ""
+
+#: template-parts/profile/edit-emp-overview.php:32
+msgid "Your Profile"
+msgstr ""
+
+#: template-parts/profile/edit-fre-freelancer.php:153
+msgid "Your Skills"
+msgstr ""
+
+#: inc/class-wp-ajax.php:924
+msgid "Your withdrawal request is sent"
+msgstr ""
