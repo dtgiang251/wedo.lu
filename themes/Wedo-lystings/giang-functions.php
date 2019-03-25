@@ -1249,6 +1249,7 @@ function wpml_hreflangs_init() {
 		// if( isset($_GET['giang']) ) {
 			// var_dump( $wp_query->query );
 		// }
+		
 		return $hreflangs;
 	}
 }
